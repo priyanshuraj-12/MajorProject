@@ -12,7 +12,7 @@ Welcome to our exciting project! This repository houses all the elements you nee
 6. **Contributors**: This project was brought to life by the collaborative efforts of Priyanshi and Sagar. Kudos to them!
 
 ## Contributors:
-- [Priyanshi](https://github.com/priyanshi)
+- [Priyanshi](https://github.com/priyanshi-18)
 - [Sagar](https://github.com/sagar)
 
 ## How to Contribute:
